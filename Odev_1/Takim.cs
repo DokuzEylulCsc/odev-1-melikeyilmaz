@@ -2,15 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace Odev_1
+namespace Odev
 {
     class Takim
     {
-        Asker[] birlik = new Asker[7];
 
-        public Asker[] Birlik { get { return birlik; } set { birlik = value; } }
-
-        // ..... //
     }
 }
